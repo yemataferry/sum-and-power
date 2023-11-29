@@ -1,6 +1,6 @@
 function pow (x, y) {
   let sum = 1
-  for (let i = 1; i <= y; i++){
+  for (let i = 1; i <= y; i++) {
     sum *= x
   }
   return (sum)
